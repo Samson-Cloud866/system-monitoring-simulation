@@ -61,3 +61,4 @@ ALERT: Memory usage is above 80%
 - Add color-coded terminal output
 - Run the script automatically with cron
 - Track disk usage as an extra system health metric
+ My new file
